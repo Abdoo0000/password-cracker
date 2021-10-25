@@ -103,11 +103,11 @@ print ('''\033[0;93m
 whatsApp : +201283494514''')
 print(l3)
 print('''\033[0;94m
-instagram : _0abdoo0_
+instagram : abdelrahman.fiala
 ''')
 print (11)
 print ('''\033[0;92m
-FaceBook : Abdelrahman Mo Fiala 
+FaceBook : Abdelrahman M. Fiala 
 ﴿
 ''')
 
