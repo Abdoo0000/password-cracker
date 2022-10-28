@@ -98,14 +98,14 @@ print ('''\033[0;91m
 ''')
 print(l1)
 print ('''
-\033[0;92mdiv by : 𝑳𝑾𝑬𝑺 𝑬𝑳𝑻𝑨𝑺𝑨 𝑯𝑨𝑪𝑲 (LEH)
+\033[0;92mdiv by : SPY0X
 ''')
 print(l2)
 print ('''\033[0;93m
-Facebook : Abdelrahman M. Fiala''')
+Facebook : Abdelrahman Fiala''')
 print(l3)
 print('''\033[0;
-instagram : Abdelrahman.Fiala﴿
+instagram : SPY_0_X﴿
 ''')
 print ('''\033[0;91m
   
